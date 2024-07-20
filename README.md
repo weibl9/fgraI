@@ -1,5 +1,5 @@
 # fgraI
 
-Data and Codes for Functional grey relational analysis. Part I: From simple algebra to deep analysis
+Data and Codes for Functional Grey Relational Analysis. Part I: From simple algebra to deep analysis
 
-Baolei Wei
+By Baolei Wei
