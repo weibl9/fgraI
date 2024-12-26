@@ -108,7 +108,7 @@ for j=1:6
 end
 
 set(gcf,'position',[200 200 1200 550])
-exportgraphics(gcf,'..\TeX-amm\Figure-I-9.png','ContentType','image','Resolution',600)
+%exportgraphics(gcf,'..\TeX-amm\Figure-I-9.png','ContentType','image','Resolution',600)
 
 %% Figure 
 figure
@@ -157,7 +157,7 @@ nexttile([1 2])
 
 set(gcf,'position',[200 200 1100 360])
 
-exportgraphics(gcf,'..\TeX-amm\Figure-I-10.png','ContentType','image','Resolution',600)
+%exportgraphics(gcf,'..\TeX-amm\Figure-I-10.png','ContentType','image','Resolution',600)
 
 %%
 
