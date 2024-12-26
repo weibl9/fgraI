@@ -35,7 +35,7 @@ if true
     xticklabels(objnames)
     set(gca,"FontSize",13)
     set(f1,'position',[10 200 1750 580])
-    exportgraphics(f1,'..\TeX-amm\Figure-I-11.png','Resolution',600)
+    % exportgraphics(f1,'..\TeX-amm\Figure-I-11.png','Resolution',600)
 end
 
 %%
@@ -85,7 +85,7 @@ set(clus.dend,'LineWidth',2)
 ylabel('$1-g_{i,j}$','Interpreter','latex')
 set(gca,"FontSize",13)
 set(gcf,'position',[510 50 750 350])
-exportgraphics(gcf,['..\TeX-amm\Figure-I-12_',char(strcat(varnames{idx(2:end)})),'.png'],'Resolution',600)
+% exportgraphics(gcf,['..\TeX-amm\Figure-I-12_',char(strcat(varnames{idx(2:end)})),'.png'],'Resolution',600)
 
 % Clusters
 disp('Cluster assignments:');
